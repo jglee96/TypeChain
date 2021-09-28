@@ -1,5 +1,5 @@
 # TypeChain
-Study typescript with making simple block chain
+Study typescript with making simple blockchain
 
 ***Typescript***
 Typescript는 javascript의 superset임\
